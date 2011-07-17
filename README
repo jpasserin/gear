@@ -1,1 +1,5 @@
-TEST
+GEAR is an open source project to provide a complete and production quality tool set for rigging and animation inside Autodesk Softimage™. It includes a lot of tools to ease the rigging and animation process.
+
+The main focus of version 1.0 is the rigging part. We wanted to be able to create and maintain production quality rigs easily. A couple of tools also been created to ease the rigging process, helping the manipulation of envelopes, shapes, weightmaps...
+
+Anyone should be able to built custom rig using GEAR. It has been designed to be flexible and easy to use. Even non-riggers can create advanced rigging and animate them easily. But the system is also open to further development so TDs can create their own components and use them inside of the GEAR Rigging System. Also everything is accessible through scripting with a complete API to automate as much as possible.
